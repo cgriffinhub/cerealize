@@ -18,5 +18,8 @@ E-Commerce application for customizable products
   <li>
   Node.js
   </li>
+  <li>
+  API Integration - backend created in PHP/Laravel. Frontend created in Vue/Nuxt.js
+  </li>
 
 </ul>
