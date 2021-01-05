@@ -23,7 +23,7 @@
     "@nuxtjs/axios": "^5.5.4",
     "@nuxtjs/bulma": "^1.2.4",
     "@nuxtjs/pwa": "^2.6.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bulma": "^0.7.5",
     "cross-env": "^5.2.0",
     "d3": "^5.9.2",
