@@ -26,7 +26,7 @@
     "axios": "^0.18.1",
     "bulma": "^0.7.5",
     "cross-env": "^5.2.0",
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "eslint-config-prettier": "^4.3.0",
     "nuxt": "^2.8.1",
     "nuxt-fontawesome": "^0.4.0",
